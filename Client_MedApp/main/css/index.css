@@ -1,0 +1,49 @@
+@import "font-awesome.min.css";
+@import "materialize.min.css";
+@import "carousal.css";
+html { width: 100%; height:100%; overflow-y: scroll; overflow-x:hidden; }
+
+
+
+.page-footer{
+
+    /*position:absolute;*/
+    width: 100%;
+    bottom : 0;
+}
+
+
+/*.Lams{*/
+
+    /*height : 300px;*/
+    /*width: 100%;*/
+/*}*/
+
+#items{
+    margin-bottom:2em;
+}
+
+#items h2{
+    margin-bottom:0;
+    padding-bottom:0;
+}
+.one_item {
+    padding: 30px;
+}
+
+.one_item h3{
+    margin-bottom:0;
+    padding-bottom:0;
+    color:green;
+}
+
+.one_item p{
+    margin-top:0;
+    padding-top:.5em;
+}
+.one_item{
+    border-bottom:1px solid gray;
+}
+
+
+

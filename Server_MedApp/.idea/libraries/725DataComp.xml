@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="725DataComp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/725DataComp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/antlr-2.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/asm-attrs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/cglib-2.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/commons-collections-2.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/ehcache-1.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/ejb3-persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/hibernate-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/hibernate-commons-annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/hibernate-entitymanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/hibernate-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/hibernate3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/javaee-api-6.0-5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/javassist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/jdbc2_0-stdext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/jta.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/jtidy-r8-20060801.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/java-xmlbuilder-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/725DataComponent/org.apache.commons.io.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
